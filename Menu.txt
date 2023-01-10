@@ -1,0 +1,22 @@
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+=: = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = :=
+::                     WELCOME TO CHAT                             ::
+::                    type the following                           :: 
+::                       /readstory                                ::
+::                       /watchmovie                               ::
+::                       /connect                                  ::
+::                       /showusers                                ::
+::                       /showbanner                               :: 
+::                       /sendmessage                              ::
+::                       /help                                     :: 
+::                       /username                                 ::
+::                       /quit                                     ::
+::                                                                 :: 
+::                       ftp commands                              :: 
+::      /showfile                    /sendfile                     ::
+::      /downloadfile                /downloadfile                 :: 
+::                                                                 :: 
+::                                                                 ::
+::                                                                 :: 
+=: = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = := 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
